@@ -1,0 +1,28 @@
+name: mjlabs
+favicon: null
+layout_spectrum: 0.609284495934844
+typography_spectrum: 0.6635136245749891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5462867475580424
+  lightness: 0.35775412037037313
+  saturation: 0.17754308762960136
+  rhythmicContrast: 0.2152759120799601
+purpose: []
